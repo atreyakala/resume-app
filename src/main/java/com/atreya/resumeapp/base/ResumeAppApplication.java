@@ -1,4 +1,4 @@
-package com.atreya.resumeapp;
+package com.atreya.resumeapp.base;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
